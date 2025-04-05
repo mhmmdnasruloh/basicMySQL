@@ -1,2 +1,1 @@
-# basicMySQL
-Just exploring the essentials of MySQL. A small step into the data world
+Proyek ini berisi proses membersihkan data Excel dari hasil order penjualan bisnis saya, lalu memindahkannya ke database MySQL untuk pengolahan lebih lanjut. Tujuannya adalah untuk merapikan data dan mempermudah analisis penjualan ke depannya
